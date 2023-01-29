@@ -16,7 +16,7 @@ paginate = 5
   showMenuItems = 2
 
   # Show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true 
 
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
@@ -28,8 +28,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Opinionated Data | Gregory Power"
+    subtitle = "A blog on data science, programming, and memes"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -45,7 +45,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Opinionated Data | Gregory Power"
       logoHomeLink = "/"
     # or
     #
