@@ -1,5 +1,5 @@
 +++
-title = "Hello Friend"
+title = "Hey Goob"
 date = "2023-01-28"
 author = "Gregory"
 cover = "https://media.giphy.com/media/l2YSgsunrP27ddQje/giphy.gif"
